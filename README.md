@@ -1,4 +1,6 @@
 # HexSnake
 A twist on the classic game Snake.
 
-Written in Java
+![Screenshot](https://raw.githubusercontent.com/suitangi/HexSnake/master/snake.jpg)
+
+Written in Java with [@jefferycao1](https://github.com/jefferycao1)
